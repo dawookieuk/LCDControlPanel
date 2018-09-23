@@ -1,0 +1,29 @@
+LCDControlPanel		KEYWORD1
+rotaryController	KEYWORD1
+switchController	KEYWORD1
+
+Menu				KEYWORD1
+MenuItemList		KEYWORD1
+MenuItemAnalog		KEYWORD1
+MenuItemAnalog		KEYWORD1
+MenuItemFloat		KEYWORD1
+MenuItemInteger		KEYWORD1
+MenuItemListAdv		KEYWORD1
+MenuItemAnalogAdv	KEYWORD1
+MenuItemAnalogAdv	KEYWORD1
+MenuItemFloatAdv	KEYWORD1
+MenuItemIntegerAdv	KEYWORD1
+
+read				KEYWORD2
+begin				KEYWORD2
+attachCallBack		KEYWORD2
+detachCallBack		KEYWORD2
+addItemBefore		KEYWORD2
+addItemAfter		KEYWORD2
+deleteItem			KEYWORD2
+setItemValue		KEYWORD2
+getItemValue		KEYWORD2
+
+ENTER_CALLBACK		KEYWORD3
+EXIT_CALLBACK		KEYWORD3	
+MODIFY_CALLBACK		KEYWORD3
